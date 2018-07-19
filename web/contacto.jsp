@@ -1,7 +1,7 @@
 <%-- 
     Document   : contacto
     Created on : 27/06/2018, 05:49:49 PM
-    Author     : luiscarlosgarciacampo@gmail.com
+    Author     : ingluiscarlos02@gmail.com
 
 28/09/2018, 3:57 pm:   Cambio de imagen contactenos
 

@@ -1,7 +1,7 @@
 <%-- 
     Document   : internetsano
     Created on : 16/07/2018, 02:38:10 PM
-    Author     : ASistemas
+    Author     : ingluiscarlos02@gmail.com
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

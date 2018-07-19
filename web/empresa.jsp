@@ -1,7 +1,7 @@
 <%-- 
     Document   : empresa
     Created on : 3/07/2018, 09:25:15 AM
-    Author     : ASistemas
+    Author     : ingluiscarlos02@gmail.com
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
