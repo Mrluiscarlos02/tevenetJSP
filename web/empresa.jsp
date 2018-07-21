@@ -738,9 +738,3 @@
     <!-- Active JS -->
     <script src="resources/js/active.js"></script>
 </html>
-
-
-
- <!--  <div class="post-thumb">
-                                     <img class="br-30 mb-30" src="resources/img/servicios/ipad.jpg" alt="">
-                                    </div>  -->

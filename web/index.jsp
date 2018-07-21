@@ -369,39 +369,20 @@
                             <div class="single-post wow fadeInUp" data-wow-delay=".6s">
                                 <!-- Post Thumb -->
                                 <div class="post-thumb">
-                                    <img src="resources/img/blog-img/3.jpg" alt="" />
+                                    <img src="resources/img/canalespropios/caucavision.jpg" alt="" />
                                 </div>
                                 <!-- Post Content -->
                                 <div class="post-content">
                                     <div class="post-meta d-flex">
                                         <div class="post-author-date-area d-flex">
-                                            <!-- Post Author -->
-                                            <div class="post-author">
-                                                <a href="#">By Marian</a>
-                                            </div>
-                                            <!-- Post Date -->
+                                             <!-- Post Date -->
                                             <div class="post-date">
-                                                <a href="#">May 19, 2017</a>
+                                                <a href="#">Canal de programación variada.</a>
                                             </div>
-                                        </div>
-                                        <!-- Post Comment & Share Area -->
-                                        <div class="post-comment-share-area d-flex">
-                                            <!-- Post Favourite -->
-                                            <div class="post-favourite">
-                                                <a href="#"><i class="fa fa-heart-o" aria-hidden="true"></i> 10</a>
-                                            </div>
-                                            <!-- Post Comments -->
-                                            <div class="post-comments">
-                                                <a href="#"><i class="fa fa-comment-o" aria-hidden="true"></i> 12</a>
-                                            </div>
-                                            <!-- Post Share -->
-                                            <div class="post-share">
-                                                <a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i></a>
-                                            </div>
-                                        </div>
+                                        </div>                                       
                                     </div>
                                     <a href="#">
-                                        <h4 class="post-headline">The Top Breakfast And Brunch Spots In Hove, Brighton</h4>
+                                        <h4 class="post-headline" style="text-align: justify;">Disfruta la mejor televisión local caucana, encuentra magazines, noticieros diarios, clasificados, programación infantil, musical y programas interactivos de interés social.</h4>
                                     </a>
                                 </div>
                             </div>
